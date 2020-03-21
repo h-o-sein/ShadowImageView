@@ -1,8 +1,8 @@
-# ShadowImageView
+# ShadowImageView Support Swift 5
 
 ![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg)
 ![CocoaPods Support](https://img.shields.io/badge/Cocoapods-compatible-4BC51D.svg) 
-![Swift Version](https://img.shields.io/badge/Swift-3.0-orange.svg) 
+![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg) 
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
 
 A apple music cover picture shadow style image library
@@ -38,7 +38,7 @@ ShadowImageView is a iOS 10 Apple Music style image view, help you create elegen
 You can use [CocoaPods](http://cocoapods.org/) to install `ShadowImageView` by adding it to your `Podfile`:
 
 ```ruby
-platform :ios, '8.0'
+platform :ios, '10.0'
 use_frameworks!
 pod 'ShadowImageView'
 ```
@@ -92,8 +92,8 @@ If you want to add by storyboard or nib, just drap a UIView into your canvas, an
 
 ## Requirements
 
-- iOS 8.0+
-- Swift 3+
+- iOS 10.0+
+- Swift 5+
 
 The main development of ShadowImageView is based on Swift 3.
 
