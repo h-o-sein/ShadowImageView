@@ -1,7 +1,5 @@
 # ShadowImageView Support Swift 5
 
-![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg)
-![CocoaPods Support](https://img.shields.io/badge/Cocoapods-compatible-4BC51D.svg) 
 ![Swift Version](https://img.shields.io/badge/Swift-5.0-orange.svg) 
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
 
@@ -34,21 +32,6 @@ ShadowImageView is a iOS 10 Apple Music style image view, help you create elegen
 
 ### Import
 
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `ShadowImageView` by adding it to your `Podfile`:
-
-```ruby
-platform :ios, '10.0'
-use_frameworks!
-pod 'ShadowImageView'
-```
-
-#### Carthage
-Create a `Cartfile` that lists the framework and run `carthage update`. Follow the [instructions](https://github.com/Carthage/Carthage#if-youre-building-for-ios) to add `$(SRCROOT)/Carthage/Build/iOS/YourLibrary.framework` to an iOS project.
-
-```
-github "olddonkey/ShadowImageView"
-```
 #### Manually
 1. Download and drop ```ShadowImageView.swift``` in your project.  
 2. Congratulations!
